@@ -1,0 +1,7 @@
+c:\users\foofighter\documents\visual studio 2010\Projects\Paint\Paint\Paint\bin\x86\Debug\Content\reddot.xnb
+c:\users\foofighter\documents\visual studio 2010\Projects\Paint\Paint\Paint\bin\x86\Debug\Paint.exe
+c:\users\foofighter\documents\visual studio 2010\Projects\Paint\Paint\Paint\bin\x86\Debug\Paint.pdb
+c:\users\foofighter\documents\visual studio 2010\Projects\Paint\Paint\Paint\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\foofighter\documents\visual studio 2010\Projects\Paint\Paint\Paint\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\foofighter\documents\visual studio 2010\Projects\Paint\Paint\Paint\obj\x86\Debug\Paint.exe
+c:\users\foofighter\documents\visual studio 2010\Projects\Paint\Paint\Paint\obj\x86\Debug\Paint.pdb
