@@ -7,34 +7,34 @@ CONTENTS OF THIS FILE
 INTRODUCTION
 ------------
  
- Written by Cathal McNally
- Date 05/04/2012
- Free to all to make changes, but a mention would be nice :)
+Written by Cathal McNally
+Date 05/04/2012
+Free to all to make changes, but a mention would be nice :)
  
- Basic Paint Program i put together after i couldnt figure out how to implement it as part of another project
- http://github.com/thefoofighter/KinectTest
+Basic Paint Program i put together after i couldnt figure out how to implement it as part of another project
+http://github.com/thefoofighter/KinectTest
  
- I understand that the code is certainly not efficient nor is it the best possible way of implementing a paint program
- It was the easiest and fastest way i found that did for me what i needed
+I understand that the code is certainly not efficient nor is it the best possible way of implementing a paint program
+It was the easiest and fastest way i found that did for me what i needed
  
- Optimization issues include the List of Vector2 Objects which is going to keep adding to everytime the mouse is moved, while being clicked
- Another issue is that the reddot is being redrawn at all these positions on every frame so thats numerous instances of the same object being draw onscreen
+Optimization issues include the List of Vector2 Objects which is going to keep adding to everytime the mouse is moved, while being clicked
+Another issue is that the reddot is being redrawn at all these positions on every frame so thats numerous instances of the same object being draw onscreen
   
- Possible resolutions would involve the renderToTarget Method, setData in a texture2D Background etc
+Possible resolutions would involve the renderToTarget Method, setData in a texture2D Background etc
  
- Like i said it is not effiecient and could use optimzation
- as well as that if you move the mouse too fast it will leave gaps :/
- A possible solution for this if i have time would be to get the positions either side of teh gaps and fill the gap as a straight line of red dots 
+Like i said it is not effiecient and could use optimzation
+as well as that if you move the mouse too fast it will leave gaps :/
+A possible solution for this if i have time would be to get the positions either side of teh gaps and fill the gap as a straight line of red dots 
   
- Anyway i hope it helps someone sometime
+Anyway i hope it helps someone sometime
  
- Kinds regards
+Kinds regards
  
- Cathal
+Cathal
  
 
 
- Author: Cathal McNally (mcnallycathal@yahoo.ie).
+Author: Cathal McNally (mcnallycathal@yahoo.ie).
 
 
 LICENCE
